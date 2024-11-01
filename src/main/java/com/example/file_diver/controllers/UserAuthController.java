@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.file_diver.dto.LoginRequest;
 import com.example.file_diver.dto.RegisterRequest;
-import com.example.file_diver.models.UserEntity;
 import com.example.file_diver.services.UserService;
 
 @RestController

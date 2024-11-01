@@ -1,7 +1,11 @@
+C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\controllers\FileController.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\controllers\UserAuthController.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\dto\LoginRequest.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\dto\RegisterRequest.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\FileDiverApplication.java
+C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\models\FileEntity.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\models\UserEntity.java
+C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\repositories\FileRepository.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\repositories\UserRepository.java
+C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\services\FileService.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\services\UserService.java
