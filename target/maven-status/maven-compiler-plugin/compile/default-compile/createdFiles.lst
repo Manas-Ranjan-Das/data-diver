@@ -1,2 +1,16 @@
+com\example\file_diver\repositories\UserRepository.class
+com\example\file_diver\services\PDFPageToImageExtractor.class
+com\example\file_diver\dto\LoginRequest.class
 com\example\file_diver\models\UserEntity.class
+com\example\file_diver\services\PDFVectorGraphicsExtractor.class
+com\example\file_diver\repositories\FileRepository.class
+com\example\file_diver\services\UserService.class
+com\example\file_diver\services\FileService.class
+com\example\file_diver\controllers\UserAuthController.class
+com\example\file_diver\services\PDFImageExtractor.class
+com\example\file_diver\dto\RegisterRequest.class
+com\example\file_diver\controllers\FileController.class
 com\example\file_diver\FileDiverApplication.class
+com\example\file_diver\services\PdfMetadataExtractionService.class
+com\example\file_diver\services\PDFPageMetadataExtractor.class
+com\example\file_diver\models\FileEntity.class

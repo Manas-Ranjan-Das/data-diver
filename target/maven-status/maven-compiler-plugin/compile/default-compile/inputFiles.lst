@@ -2,10 +2,16 @@ C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\controllers\UserAuthController.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\dto\LoginRequest.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\dto\RegisterRequest.java
+C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\dto\ResponseToExtraction.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\FileDiverApplication.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\models\FileEntity.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\models\UserEntity.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\repositories\FileRepository.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\repositories\UserRepository.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\services\FileService.java
+C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\services\PDFImageExtractor.java
+C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\services\PdfMetadataExtractionService.java
+C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\services\PDFPageMetadataExtractor.java
+C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\services\PDFPageToImageExtractor.java
+C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\services\PDFVectorGraphicsExtractor.java
 C:\Users\manas\OneDrive\Documents\Programming\Projects\file-diver\src\main\java\com\example\file_diver\services\UserService.java

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.file_diver.FileDiverApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.758 s -- in com.example.file_diver.FileDiverApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.466 s -- in com.example.file_diver.FileDiverApplicationTests

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Extractor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>PDF Extractor</h1>
+
+        <!-- File Upload Form -->
+        <div class="upload-section ">
+            <input type="file" id="pdfFileInput" accept=".pdf">
+            <button id="extractButton">Extract Data</button>
+        </div>
+
+        <!-- Display Area -->
+        <div id="resultSection" class="container">
+            <h1>PDF Extraction Results</h1>
+
+            <section id="pdfPagesAsImages">
+                <h2>PDF Pages as Images</h2>
+                <div id="pagesImagesContent"></div>
+            </section>
+
+            <section id="pdfEmbeddedImages">
+                <h2>Embedded Images</h2>
+                <div id="embeddedImagesContent"></div>
+            </section>
+
+            <section id="pdfMetadata">
+                <h2>PDF Metadata</h2>
+                <p id="pdfMetadataContent"></p>
+            </section>
+
+            <section id="graphicalElements">
+                <h2>Graphical Elements</h2>
+                <ul id="graphicalElementsList"></ul>
+            </section>
+
+            <section id="extractedText">
+                <h2>Extracted Text</h2>
+                <pre id="extractedTextContent"></pre>
+            </section>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
